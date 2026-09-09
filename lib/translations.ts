@@ -11,9 +11,9 @@ export const translations = {
     about: {
       greeting: "Hello there!",
       paragraph1:
-        "I guess you're curious to know a bit about me if you've made it this far, thanks for checking out my site. I'm just someone who happens to be passionate about building software, especially the kind that keeps you thinking long after you've logged off. While I have a favorite tech stack, I care more about using the right tools to solve the right problems.",
+        "I guess you're curious to know a bit about me if you've made it this far. I'm someone who's passionate about building things and solving complex problems, especially the kind that keeps me thinking long after I've closed my laptop. While I have a favorite tech stack, I care more about using the right tools to solve the right problems.",
       paragraph2:
-        "I often spend more time than I'd like to admit trying to understand how things work, from low-level hardware to global systems (and a lot of non-tech stuff too). If you didn't find any of this boring, you're probably the kind of person I enjoy working or hanging out with.",
+        "I often spend more time than I'd like to admit trying to understand how things work, from low-level hardware to global systems (and plenty of non-tech stuff too, like cosmology, physics, evolutionary biology...). If you didn't find any of this boring, you're probably the kind of person I enjoy working with or hanging out with.",
       findMe: "Find me on X:",
       email: "Or email me at:",
     },
@@ -165,11 +165,21 @@ export const translations = {
         {
           id: 5,
           title: "Master's in Software Engineering for Cloud Computing",
-          dateRange: "2024 - Present",
+          dateRange: "2024 - 2026",
           location: "Faculty of Sciences - University of Ibn Tofail",
           description:
             "Currently pursuing a master's degree with a focus on machine learning, deep learning, cloud computing, web services, and DevOps practices.",
           type: "Education",
+        },
+        {
+          id: 6,
+          title:
+            "Research Assistant, AI Data Platform (AIDP) E2E Customer Scenarios",
+          dateRange: "March 2026 - September 2026",
+          location: "Oracle - Casablanca, Morocco",
+          description:
+            "Built an agentic AI system that migrated 35 customer data and ML workflows totaling 274 tasks from Databricks to Oracle AIDP for a major digital financial services provider, developed an internal performance-testing automation application used by 16 teams, and designed more than 60 test suites across 16 platform services.",
+          type: "Internship",
         },
       ],
     },
@@ -182,11 +192,11 @@ export const translations = {
       history: "Historique",
     },
     about: {
-      greeting: "Bonjour!",
+      greeting: "Bonjour !",
       paragraph1:
-        "Je suppose que vous êtes curieux d'en savoir un peu plus sur moi si vous êtes arrivé jusqu'ici, merci d'avoir consulté mon site. Je suis simplement quelqu'un qui se passionne pour la création de logiciels, en particulier ceux qui vous font réfléchir longtemps après vous être déconnecté. Bien que j'aie une pile technologique préférée, je me soucie davantage d'utiliser les bons outils pour résoudre les bons problèmes.",
+        "J'imagine que vous avez envie d'en savoir un peu plus sur moi si vous êtes arrivé jusqu'ici. Je suis quelqu'un qui se passionne pour la création et la résolution de problèmes complexes, surtout ceux qui continuent à me trotter dans la tête longtemps après avoir refermé mon ordinateur portable. Même si j'ai mes technologies de prédilection, ce qui compte le plus pour moi, c'est d'utiliser les bons outils pour résoudre les bons problèmes.",
       paragraph2:
-        "Je passe souvent plus de temps que je ne voudrais l'admettre à essayer de comprendre comment les choses fonctionnent, du matériel de bas niveau aux systèmes mondiaux (et beaucoup de choses non techniques aussi). Si vous n'avez trouvé rien de tout cela ennuyeux, vous êtes probablement le genre de personne avec qui j'aime travailler ou passer du temps.",
+        "Je passe souvent plus de temps que je ne voudrais l'admettre à essayer de comprendre comment les choses fonctionnent, du matériel informatique de bas niveau aux systèmes mondiaux (et bien d'autres sujets en dehors de la tech, comme la cosmologie, la physique, la biologie évolutive...). Si tout cela ne vous a pas ennuyé, vous êtes probablement le genre de personne avec qui j'aime travailler ou passer du temps.",
       findMe: "Retrouvez-moi sur X:",
       email: "Ou envoyez-moi un email à:",
     },
@@ -339,11 +349,21 @@ export const translations = {
         {
           id: 5,
           title: "Master en génie logiciel pour le cloud computing",
-          dateRange: "2024 - Présent",
+          dateRange: "2024 - 2026",
           location: "Faculté des Sciences - Université Ibn Tofail",
           description:
             "Actuellement en master avec une concentration sur le machine learning, le deep learning, le cloud computing, web services et les pratiques DevOps.",
           type: "Education",
+        },
+        {
+          id: 6,
+          title:
+            "Assistant de recherche, scénarios clients E2E d'AI Data Platform (AIDP)",
+          dateRange: "Mars 2026 - Septembre 2026",
+          location: "Oracle - Casablanca, Maroc",
+          description:
+            "Conception d'un système d'IA agentique ayant migré 35 workflows de données et de machine learning, soit 274 tâches, de Databricks vers Oracle AIDP pour un fournisseur majeur de services financiers numériques, développement d'une application interne d'automatisation des tests de performance utilisée par 16 équipes et création de plus de 60 suites de tests couvrant 16 services de la plateforme.",
+          type: "Stage",
         },
       ],
     },
@@ -358,9 +378,9 @@ export const translations = {
     about: {
       greeting: "Hallo!",
       paragraph1:
-        "Ich nehme an, Sie sind neugierig, ein bisschen mehr über mich zu erfahren, wenn Sie es so weit geschafft haben. Danke, dass Sie meine Seite besucht haben. Ich bin einfach jemand, der leidenschaftlich gerne Software entwickelt, besonders die Art, die Sie noch lange nach dem Ausloggen zum Nachdenken bringt. Obwohl ich einen bevorzugten Tech-Stack habe, ist es mir wichtiger, die richtigen Werkzeuge zu verwenden, um die richtigen Probleme zu lösen.",
+        "Sie sind vermutlich neugierig, ein bisschen mehr über mich zu erfahren, wenn Sie bis hierher gelesen haben. Ich entwickle leidenschaftlich gerne Dinge und löse komplexe Probleme, vor allem solche, über die ich noch lange nachdenke, nachdem ich meinen Laptop zugeklappt habe. Auch wenn ich einen bevorzugten Tech-Stack habe, ist es mir wichtiger, die richtigen Werkzeuge zu nutzen, um die richtigen Probleme zu lösen.",
       paragraph2:
-        "Ich verbringe oft mehr Zeit als ich zugeben möchte damit, zu verstehen, wie Dinge funktionieren, von Low-Level-Hardware bis zu globalen Systemen (und vielen nicht-technischen Dingen auch). Wenn Sie nichts davon langweilig fanden, sind Sie wahrscheinlich die Art von Person, mit der ich gerne arbeite oder Zeit verbringe.",
+        "Ich verbringe oft mehr Zeit, als ich zugeben möchte, damit, zu verstehen, wie Dinge funktionieren, von Low-Level-Hardware bis hin zu globalen Systemen (und das gilt auch für viele Themen abseits der Technik, wie Kosmologie, Physik, Evolutionsbiologie...). Wenn Sie das alles nicht langweilig fanden, gehören Sie wahrscheinlich zu den Menschen, mit denen ich gerne zusammenarbeite oder Zeit verbringe.",
       findMe: "Finden Sie mich auf X:",
       email: "Oder schreiben Sie mir eine E-Mail an:",
     },
@@ -513,11 +533,21 @@ export const translations = {
         {
           id: 5,
           title: "Master in Software Engineering für Cloud Computing",
-          dateRange: "2024 - Gegenwart",
+          dateRange: "2024 - 2026",
           location: "Fakultät für Wissenschaften - Universität Ibn Tofail",
           description:
             "Derzeit Master-Studium mit Schwerpunkt auf maschinellem Lernen, Deep Learning, Cloud Computing, Webdiensten und DevOps-Praktiken.",
           type: "Bildung",
+        },
+        {
+          id: 6,
+          title:
+            "Forschungsassistent, E2E-Kundenszenarien für die AI Data Platform (AIDP)",
+          dateRange: "März 2026 - September 2026",
+          location: "Oracle - Casablanca, Marokko",
+          description:
+            "Entwicklung eines agentenbasierten KI-Systems, das 35 Kundendaten- und ML-Workflows mit insgesamt 274 Aufgaben für einen bedeutenden Anbieter digitaler Finanzdienstleistungen von Databricks zu Oracle AIDP migrierte, einer internen Anwendung zur Automatisierung von Leistungstests für 16 Teams sowie von mehr als 60 Testsuiten für 16 Plattformdienste.",
+          type: "Praktikum",
         },
       ],
     },

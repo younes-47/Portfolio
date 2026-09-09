@@ -28,7 +28,6 @@ export function Header({ language }: Props) {
   const t = getTranslations(language);
 
   const navLinks = [
-    { href: "/", label: t.nav.about },
     { href: "/projects", label: t.nav.projects },
     { href: "/resume", label: t.nav.resume },
     { href: "/history", label: t.nav.history },
